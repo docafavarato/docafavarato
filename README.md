@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a2491&height=120&section=header"></img>
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Hubot+Sans&color=ffffff&weight=600&size=35&height=35&center=false&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Favarato;These+are+my+skills:)](https://git.io/typing-svg)
 
 ## Languages
@@ -15,4 +14,3 @@
   
 <a href="mailto:docafavarato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-favarato-71z00b204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a2491&height=120&section=footer"></img>
