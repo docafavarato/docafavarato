@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d91427&height=120&section=header"></img>
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Hubot+Sans&color=ffffff&weight=600&size=35&height=35&center=false&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Favarato;These+are+my+skills:)](https://git.io/typing-svg)
 
 ## Languages
