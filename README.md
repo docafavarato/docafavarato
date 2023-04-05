@@ -1,6 +1,4 @@
-
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=false&vCenter=false&width=1000&lines=Hi+there!+My+name+is+Favarato;These+are+my+skills:)](https://git.io/typing-svg)
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Hubot+Sans&color=ffffff&weight=600&size=35&center=true&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Favarato;These+are+my+skills:)](https://git.io/typing-svg)
 
 ## Languages
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
