@@ -1,5 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d91427&height=120&section=header"></img>
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Hubot+Sans&color=d91427&weight=600&size=35&height=35&center=false&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Favarato;These+are+my+skills:)](https://git.io/typing-svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a2491&height=120&section=header"></img>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Hubot+Sans&color=ffffff&weight=600&size=35&height=35&center=false&vCenter=true&width=1000&lines=Hi+there!+My+name+is+Favarato;These+are+my+skills:)](https://git.io/typing-svg)
 
 ## Languages
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=for-the-badge&logoColor=white"></img>
@@ -15,4 +15,4 @@
   
 <a href="mailto:docafavarato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-favarato-71z00b204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d91427&height=120&section=footer"></img>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7a2491&height=120&section=footer"></img>
