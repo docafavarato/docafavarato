@@ -7,6 +7,11 @@
 ## Tools
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></img> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></img> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></img> <img src="https://img.shields.io/badge/-PyPi-3775A9?logo=pypi&style=for-the-badge&logoColor=white"></img> <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=for-the-badge&logoColor=white"></img> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white"></img>
   
+## Certifications
+><a href="https://certificates.cs50.io/d5661a4d-b690-4703-9810-f29032ee439d.pdf?size=letter">CS50: Introduction to Computer Science</a> (Harvard)
+
+><a href="">Java completo</a> (Nélio Alves)
+  
 ## More info
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=docafavarato&theme=dark"/>
   
