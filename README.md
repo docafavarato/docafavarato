@@ -10,7 +10,7 @@
 ## Certifications
 ><a href="https://certificates.cs50.io/d5661a4d-b690-4703-9810-f29032ee439d.pdf?size=letter">CS50: Introduction to Computer Science</a> (Harvard)
 
-><a href="https://www.udemy.com/certificate/UC-60664b2a-bd7e-4dd2-b1cd-34ab5f33c4c6/">Java completo</a> (Nélio Alves)
+><a href="https://www.udemy.com/certificate/UC-60664b2a-bd7e-4dd2-b1cd-34ab5f33c4c6/">Java completo</a> (Udemy)
   
 ## More info
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=docafavarato&theme=dark"/>
