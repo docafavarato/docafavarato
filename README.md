@@ -12,6 +12,8 @@
 
 ><a href="https://www.udemy.com/certificate/UC-60664b2a-bd7e-4dd2-b1cd-34ab5f33c4c6/">Java completo</a> (Udemy)
 
+><a href="https://www.ev.org.br/validar-certificado">Desenvolvimento orientado à objetos com Python</a> (Bradesco)
+
 ><a href="https://www.ev.org.br/validar-certificado">Implementando Banco de dados</a> (Bradesco)
   
 ## More info
