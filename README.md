@@ -9,7 +9,7 @@
 
 ## Skills | Technologies
 - Python (OOP, Flask, Qt, Selenium, Web Scraping, Automation)
-- Java (Spring, JavaFX, OOP, JDBC)
+- Java (Spring, JavaFX, OOP, JDBC, Maven)
 - JavaScript (Web development)
 - C++ (Qt, SFML)
 - SQL (MySQL, SQLite)
