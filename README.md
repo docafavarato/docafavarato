@@ -6,6 +6,16 @@
 
 ## Tools
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></img> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></img> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></img> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></img> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></img> <img src="https://img.shields.io/badge/-PyPi-3775A9?logo=pypi&style=for-the-badge&logoColor=white"></img> <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=for-the-badge&logoColor=white"></img> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white"></img>
+
+## Skills | Technologies
+- Python (OOP, Flask, Qt, Selenium, Web Scraping, Automation)
+- Java (Spring, JavaFX, OOP, JDBC)
+- JavaScript (Web development)
+- C++ (Qt, SFML)
+- SQL (MySQL, SQLite)
+- Git / GitHub / GitLab
+- HTML / CSS
+
   
 ## Certifications
 ><a href="https://certificates.cs50.io/d5661a4d-b690-4703-9810-f29032ee439d.pdf?size=letter">CS50: Introduction to Computer Science</a> (Harvard)
