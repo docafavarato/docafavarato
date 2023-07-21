@@ -12,7 +12,7 @@
 - Java (Spring, JavaFX, OOP, JDBC, Maven)
 - JavaScript (Web development)
 - C++ (Qt, SFML)
-- SQL (MySQL, SQLite)
+- SQL (MySQL, SQLite, MongoDB)
 - Git / GitHub / GitLab
 - HTML / CSS
 
