@@ -1,3 +1,6 @@
+## About
+Undergraduate student in "Computer Science" and "Science & Technology" Bachelor's Degree at the Federal University of ABC (<a href="https://www.ufabc.edu.br/en/">UFABC</a>).
+
 ## Languages
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img> <img src="https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=OpenJDK&logoColor=white"></img> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></img> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"></img> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=for-the-badge&logoColor=white"></img> 
 
