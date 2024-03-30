@@ -20,7 +20,6 @@ Undergraduate student in "Computer Science" and "Science & Technology" Bachelor'
 - Git / GitHub / GitLab
 - HTML / CSS
 
-  
 ## Certifications
 ><a href="https://certificates.cs50.io/d5661a4d-b690-4703-9810-f29032ee439d.pdf?size=letter">CS50: Introduction to Computer Science</a> (Harvard)
 
