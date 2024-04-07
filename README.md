@@ -21,19 +21,19 @@ Undergraduate student in "Computer Science" and "Science & Technology" Bachelor'
 - HTML / CSS
 
 ## Certifications
-><a href="https://certificates.cs50.io/d5661a4d-b690-4703-9810-f29032ee439d.pdf?size=letter">CS50: Introduction to Computer Science</a> (Harvard)
+- <a href="https://certificates.cs50.io/d5661a4d-b690-4703-9810-f29032ee439d.pdf?size=letter">CS50: Introduction to Computer Science</a> (Harvard)
 
-><a href="https://www.udemy.com/certificate/UC-60664b2a-bd7e-4dd2-b1cd-34ab5f33c4c6/">Java completo</a> (Udemy)
+- <a href="https://www.udemy.com/certificate/UC-60664b2a-bd7e-4dd2-b1cd-34ab5f33c4c6/">Java completo</a> (Udemy)
 
-><a href="https://www.ev.org.br/validar-certificado">Desenvolvimento orientado à objetos com Python</a> (Bradesco)
+- <a href="https://www.ev.org.br/validar-certificado">Desenvolvimento orientado à objetos com Python</a> (Bradesco)
 
-><a href="https://www.ev.org.br/validar-certificado">Implementando Banco de dados</a> (Bradesco)
+- <a href="https://www.ev.org.br/validar-certificado">Implementando Banco de dados</a> (Bradesco)
 
-><a href="https://app.rocketseat.com.br/certificates/56cb835e-0218-4c56-8871-9e22964dee6d">NLW Unite - C#</a> (Rocketseat)
+- <a href="https://app.rocketseat.com.br/certificates/56cb835e-0218-4c56-8871-9e22964dee6d">NLW Unite - C#</a> (Rocketseat)
 
-><a href="https://www.hackerrank.com/certificates/5088df8c94e7">Software Engineer</a> (Hackerrank)
+- <a href="https://www.hackerrank.com/certificates/5088df8c94e7">Software Engineer</a> (Hackerrank)
 
-><a href="https://cert.efset.org/eMDkBX">EF SET - C2 PROFICIENT</a> (Education First)
+- <a href="https://cert.efset.org/eMDkBX">EF SET - C2 PROFICIENT</a> (Education First)
   
 ## More info
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=docafavarato&theme=dark"/>
