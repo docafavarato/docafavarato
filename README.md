@@ -16,11 +16,11 @@ Undergraduate student in "Computer Science" and "Science & Technology" Bachelor'
     
 
 ## Skills | Technologies
-- Java (Spring, JavaFX, OOP, JDBC, Maven, Mockito)
-- Python (OOP, Flask, Qt, Selenium, Web Scraping, Automation)
-- JavaScript (Web development)
-- C++ (Qt, SFML)
-- SQL (MySQL, SQLite)
+- Java (Spring, JavaFX, JUnit, Mockito, JDBC, Maven, POO)
+- Python (Flask, Selenium, Pandas, Matplotlib, Web Scraping, Automação, POO)
+- JavaScript (Desenvolvimento Web, POO)
+- React Native (Desenvolvimento mobile)
+- SQL (MySQL, SQLite, PostgreSQL)
 - NoSQL (MongoDB)
 - Git / GitHub / GitLab
 - HTML / CSS
